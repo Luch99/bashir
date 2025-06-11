@@ -1,0 +1,48 @@
+/* Wanted Page CSS */
+body {
+  background: #f8e7b3;
+  font-family: 'Old Standard TT', serif;
+  color: #3b2f1e;
+  margin: 0;
+  padding: 0;
+}
+
+.wanted-container {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 32px 24px;
+  border: 8px solid #a67c52;
+  background: #fffbe6;
+  box-shadow: 0 0 24px #a67c52;
+  text-align: center;
+}
+
+.wanted-title {
+  font-size: 3rem;
+  font-weight: bold;
+  letter-spacing: 0.2em;
+  margin-bottom: 16px;
+  text-shadow: 2px 2px 0 #a67c52;
+}
+
+.wanted-photo {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border: 6px solid #a67c52;
+  margin-bottom: 20px;
+  background: #fff;
+}
+
+.wanted-details {
+  font-size: 1.2rem;
+  margin-bottom: 18px;
+}
+
+.reward {
+  font-size: 2rem;
+  color: #b22222;
+  font-weight: bold;
+  margin-top: 18px;
+  text-shadow: 1px 1px 0 #fff;
+}
